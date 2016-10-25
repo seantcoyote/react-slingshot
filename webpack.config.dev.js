@@ -50,5 +50,5 @@ export default {
       {test: /(\.css|\.scss)$/, loaders: ['style', 'css?sourceMap', 'postcss', 'sass?sourceMap']}
     ]
   },
-  postcss: ()=> [autoprefixer]
+  postcss: () => [autoprefixer]
 };

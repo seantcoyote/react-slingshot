@@ -42,6 +42,7 @@
     "no-var": 1,
     "semi": [1, "always"],
     "eol-last": 0,
+    "camelcase": 0,
     "no-underscore-dangle": 0,
     "no-alert": 0,
     "no-lone-blocks": 0,
@@ -80,7 +81,7 @@
     "react/self-closing-comp": 1,
     "react/sort-comp": 1,
     "react/wrap-multilines": 1,
-    'standard/object-curly-even-spacing': [2, "either"]
+    'standard/object-curly-even-spacing': [2, "either"],
     'standard/array-bracket-even-spacing': [2, "either"],
     'standard/computed-property-even-spacing': [2, "even"]
   },
