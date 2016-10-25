@@ -1,3 +1,7 @@
+react-slingshot-bones contributors (sorted alphabetically)
+====================================================
+* Sean Crawford ([seantcoyote](https://github.com/seantcoyote))
+
 react-slingshot contributors (sorted alphabetically)
 ====================================================
 * Atif Afzal ([atfzl](https://github.com/atfzl))
